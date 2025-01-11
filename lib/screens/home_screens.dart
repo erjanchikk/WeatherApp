@@ -72,7 +72,7 @@ class _HomeScreensState extends State<HomeScreens> {
                               );
                             }
                           },
-                          icon: Icon(
+                          icon: const Icon(
                             Icons.location_on_outlined,
                             color: Colors.white,
                             size: 30,
